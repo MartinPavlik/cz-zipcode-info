@@ -1,0 +1,14 @@
+{
+  "name": "cz-zipcode-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "printJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
