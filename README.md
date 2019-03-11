@@ -9,3 +9,6 @@ Getting SQL output
 ```
 $ node printSql.js
 ```
+
+## Original data set
+https://zvarik.cz/cs/databaze-psc

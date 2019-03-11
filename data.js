@@ -1,3 +1,4 @@
+// Taken from https://zvarik.cz/cs/databaze-psc
 module.exports = `
 INSERT INTO \`psc\` (\`id\`, \`psc\`, \`mesto\`, \`okres\`, \`kraj\`, \`stat\`) VALUES
 (1, '36235', 'Abertamy', 'Karlovy Vary', 'Jihočeský a Západočeský', 'CZ'),
